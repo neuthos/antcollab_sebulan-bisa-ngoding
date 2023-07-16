@@ -7,3 +7,5 @@
 - Setiap harinya, akan ada cakupan materi yang dapat dipelajari serta tugas yang harus diselesaikan.
 - Program ini terbuka bagi siapa saja, asalkan mereka bergabung dengan server Discord Ant Collab dan memiliki kedisiplinan dalam mengikutinya.
 - Yang diperlukan untuk mengikuti program ini hanyalah laptop dan semangat untuk berkembang.
+
+### [Day 1](./day-1.md)
