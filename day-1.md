@@ -12,12 +12,9 @@ Anda dapat mempelajari dasar HTML di youtube atau blog pilihan kalian.
 
 [Referensi Untuk Belajar HTML (English)](https://www.youtube.com/watch?v=N8YMl4Ezp4g&list=PLC3y8-rFHvwhuX4qGvFx-wPy_MEi6Jdp7).
 
-Setelah mempelajari dasar HTML, Berikut Challenge yang bisa membantu meningkatkan pemahamanmu:
+Setelah mempelajari dasar HTML, Berikut Challenge yang bisa membantu meningkatkan pemahamanmu dan jangan lupa untuk berbagi hasilnya di server Discord Ant Collab agar teman-teman yang lain semangat!:
 
 - [Challenge - Codecademy](https://www.codecademy.com/enrolled/courses/learn-html)
-- (Optional) Membuat HTML Pertamamu
-- [Membuat Layout dan Desain Halaman Web dengan CSS](/Users/galanghayu/Documents/Programming/antcollab/sebulan-bisa-ngoding/day1/optionaltask.md)
-
-cobalah untuk membuat halaman web sederhana dan jangan lupa untuk berbagi hasilnya di server Discord Ant Collab agar teman-teman yang lain semangat!
+- [(Optional) Membuat HTML Pertamamu](/day1/optionaltask.md)
 
 Selamat belajar dan jangan lupa bersenang-senang!
