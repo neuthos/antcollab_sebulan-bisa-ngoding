@@ -1,3 +1,4 @@
+
 # Menghias HTML menggunakan CSS
 
 1. Membuat File HTML
@@ -93,4 +94,4 @@ h1 {
 
 Hasil Akhir:
 
-<pre class="vditor-reset" placeholder="" contenteditable="true" spellcheck="false"><p data-block="0"><img src="https://irmastore.sgp1.digitaloceanspaces.com/1689517251142_png" alt="Referensi Tugas"/></p></pre>
+<pre class="vditor-reset" placeholder="" contenteditable="true" spellcheck="false"><p data-block="0"><img src="https://irmastore.sgp1.digitaloceanspaces.com/1689653893426_png" alt="Referensi Tugas"/></p></pre>
