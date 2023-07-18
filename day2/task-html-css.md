@@ -91,6 +91,6 @@ h1 {
 
 3. Hubungkan html dan css yang telah kamu buat dan tambahkan **class** dan **id** yang sesuai di htmlnya.
 
-Hasil Akhir: 
+Hasil Akhir:
 
 <pre class="vditor-reset" placeholder="" contenteditable="true" spellcheck="false"><p data-block="0"><img src="https://irmastore.sgp1.digitaloceanspaces.com/1689517251142_png" alt="Referensi Tugas"/></p></pre>
