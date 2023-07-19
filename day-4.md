@@ -12,6 +12,8 @@ Pada sesi pertama hari ini, kita akan mempelajari tentang algoritma dan pseudoco
 
 [Referensi untuk belajar Pseudocode](https://www.youtube.com/watch?v=PwGA4Lm8zuE).
 
+[Pseudocode Cheat Sheet/Template](/day4/pseudocodeCheatSheet.md).
+
 ## Sesi Kedua: Javascript Basic - Conditional and Primitive Data Type
 
 Durasi: 1-2 jam
@@ -27,3 +29,11 @@ Anda dapat mempelajari Javascript Basic di youtube atau blog pilihan kalian.
 [Refersensi Javascript Conditional](https://www.youtube.com/watch?v=IsG4Xd6LlsM&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax&index=7).
 
 Setelah mempelajari materi tersebut, cobalah untuk berlatih dengan menulis kode JavaScript sederhana yang menggunakan kondisional dan tipe data primitif.
+
+---
+
+CHALLENGE
+
+- [Challenge - Algoritma &amp; Pseudocode](/day4/example-celcius-fahrenheit.md)
+- [Codecademy Javascript Introduction](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
+- [Javascript Basic Conditional](/day4/javascript-task.md)
