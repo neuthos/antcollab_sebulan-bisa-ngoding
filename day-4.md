@@ -2,7 +2,7 @@
 
 Pada hari ini, terdapat 2 sesi belajar. Luangkan waktu sekiranya 1 - 2 jam per sesi belajarnyanya. Jadi, mari kita mulai!
 
-## Sesi Pertama: Algoritma & Pseudocode
+## Sesi Pertama : Algoritma & Pseudocode
 
 Durasi: 1 jam
 
