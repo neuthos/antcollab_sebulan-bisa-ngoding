@@ -12,8 +12,7 @@ Selain itu, kita juga akan mempelajari tentang penggunaan logical operators (AND
 
 Anda dapat mempelajari lebih lanjut tentang advanced conditional di JavaScript melalui [Dokumentasi JavaScript - Switch Statement](https://www.w3schools.com/js/js_switch.asp) dan [Dokumentasi JavaScript - Ternary Operator](https://www.w3schools.com/js/js_comparisons.asp).
 
-Setelah mempelajari materi ini, cobalah untuk berlatih menulis kode JavaScript dengan pengkondisian yang lebih kompleks untuk menyelesaikan beberapa masalah.	
-
+Setelah mempelajari materi ini, cobalah untuk berlatih menulis kode JavaScript dengan pengkondisian yang lebih kompleks untuk menyelesaikan beberapa masalah.
 
 ## Sesi Kedua: Pseudocode Lanjutan & Loop/Iteration di JavaScript
 
@@ -38,3 +37,4 @@ CHALLENGE:
 * [Soal 3](/day5/soal3.md)
 * [Soal 4](/day5/soal4.md)
 * [Soal 5](/day5/soal5.md)
+* [Soal 6](/day5/soal6.md)

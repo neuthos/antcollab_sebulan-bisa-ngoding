@@ -23,15 +23,13 @@ Anda dapat menggunakan perulangan untuk mengatur proses penyimpanan dan pengambi
 ### Contoh Output
 
 ```
+...
 Budi memiliki 8 buku di rak buku.
 Budi menyimpan buku baru ke rak buku.
 Budi memiliki 9 buku di rak buku.
 Budi menyimpan buku baru ke rak buku.
 Budi memiliki 10 buku di rak buku.
 Rak buku sudah penuh, Budi tidak dapat menyimpan buku baru.
-Budi mengambil 2 buku dari rak buku.
-Budi menyimpan buku baru ke rak buku.
-Budi memiliki 9 buku di rak buku.
 ...
 
 ```
