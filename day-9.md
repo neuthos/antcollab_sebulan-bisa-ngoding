@@ -48,5 +48,4 @@ Setelah memahami konsep array, coba untuk membuat beberapa contoh kode yang meng
 * [Codecademy JavaScript - Array (1-10)](https://www.codecademy.com/courses/introduction-to-javascript/lessons/arrays/exercises/arrays?action=resume_content_item)
 * [Soal 1 Array](/day9/soal2.md)
 
-
 Jika Anda memiliki pertanyaan atau ingin berbagi pengetahuan Anda dengan yang lain, jangan ragu untuk bertanya di server Discord Ant Collab.
