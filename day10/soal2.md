@@ -23,16 +23,16 @@ function ladder(word) {
 }
 
 // DRIVER CODE
-console.log(ladder('hacktiv8'));
+console.log(ladder('iphone14'));
 [
-  [ 'h', 'a', 'c', 'k', 't', 'i', 'v', '8' ],
-  [ 'h', 'a', 'c', 'k', 't', 'i', 'v' ],
-  [ 'h', 'a', 'c', 'k', 't', 'i' ],
-  [ 'h', 'a', 'c', 'k', 't' ],
-  [ 'h', 'a', 'c', 'k' ],
-  [ 'h', 'a', 'c' ],
-  [ 'h', 'a' ],
-  [ 'h' ]
+  [ 'i', 'p', 'h', 'o', 'n', 'e', '1', '4' ],
+  [ 'i', 'p', 'h', 'o', 'n', 'e', '1' ],
+  [ 'i', 'p', 'h', 'o', 'n', 'e' ],
+  [ 'i', 'p', 'h', 'o', 'n' ],
+  [ 'i', 'p', 'h', 'o' ],
+  [ 'i', 'p', 'h' ],
+  [ 'i', 'p' ],
+  [ 'i' ],
 ]
 
 ```
